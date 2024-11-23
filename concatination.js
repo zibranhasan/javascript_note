@@ -7,5 +7,5 @@ var string = "5";
 // var concatination = number + string;
 // console.log(concatination); //10zibran
 
-var concatination = number / string;
-console.log(concatination); //NaN
+var concatination = number - string;
+console.log(concatination); 
